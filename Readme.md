@@ -69,6 +69,7 @@ Angle/distance calculations are handled by:
 startLine: 3
 endLine: 14
 ```
+**Note:** This project uses a simple gesture detection approach. For more complex gestures, consider using machine learning models or more sophisticated gesture recognition techniques.
 
 ## Troubleshooting 🛠️
 **Webcam Not Detected:**
